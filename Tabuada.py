@@ -9,3 +9,4 @@ while contador < 10:
     print(tabuada, 'x', contador, '=', tabuada * contador)
 
 print('fim da tabuada de', tabuada)
+print('muito obrigado!')
